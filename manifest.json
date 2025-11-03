@@ -1,0 +1,10 @@
+{
+	"id": "usage-tracker",
+	"name": "Usage Tracker",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Tracks total time spent using Obsidian",
+  "main": "dist/main.js",
+  "authorUrl": "https://github.com/errorscode",
+  "isDesktopOnly": false
+}
